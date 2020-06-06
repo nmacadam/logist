@@ -1,0 +1,3639 @@
+{
+  "SessionData": {
+    "ProductName": "Loggerhead",
+    "Version": "0.1",
+    "Platform": "WindowsEditor",
+    "CompanyName": "DefaultCompany",
+    "SessionStartTime": "2:20:25 PM",
+    "SessionEndTime": null,
+    "SessionDuration": "00:00:01.3593915"
+  },
+  "Logs": [
+    {
+      "TimeStamp": 0.02,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.353333354,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.386077136,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.391026646,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.397525638,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.401491731,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.404503852,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.406945229,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.409300357,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.414394051,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.416759044,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.419119239,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.42151013,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.427038938,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.429534853,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.43211484,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.434431344,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.437064052,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.440065235,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.44275105,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.451823443,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.455131143,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.457622439,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.460171938,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.462738037,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.465986729,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.468642652,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.471335739,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.47389394,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.477184743,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.480443954,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.484578848,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.488464534,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.491438836,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.494291842,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.49685204,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.499493629,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.50199,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5076299,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.510341942,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.513184249,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.516434848,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.519279957,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.521791339,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5243688,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5267115,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.529583752,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.532074153,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.537648261,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5428528,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.545154154,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.547462344,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.549867153,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.552194953,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5550454,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5573834,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.55972904,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.562146962,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.565156937,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5676407,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.570328832,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5728005,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.575217545,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.578080654,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.580477357,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5829058,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.585195839,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.587787032,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.590414941,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.592754543,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.5950837,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.597443938,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.60025394,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.602724135,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.60506314,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.607378542,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.610684335,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6130676,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.617938042,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.620442033,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.623306334,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6256893,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.628296435,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.630839646,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6338251,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.639396548,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.641841948,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6444358,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.647139132,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.649530947,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.652023733,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.654356956,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.656624854,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.659313,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6639984,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.666416764,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.669798255,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.672246456,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6746035,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6769043,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6793932,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.68259263,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.685027242,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6900079,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.692871451,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.695337057,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.6977875,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.700256169,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7031071,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7105485,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.712835252,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7155644,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.717888236,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.720241666,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.722533941,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7248588,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.734247863,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.739604056,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7421526,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.747104645,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.749831438,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.752732038,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7560492,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.758826137,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7642831,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.766984642,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.770544231,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.7735022,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.777165353,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.78001523,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.783369958,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.786391854,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.789405644,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.792792,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.795602,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.798785448,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.801614046,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.80422467,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.806698561,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.809653342,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.812269449,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.814941764,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.820400059,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.82361424,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.826342463,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8289334,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.831538856,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.83473,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.837841868,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8407716,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.843963265,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.846565247,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.852949262,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.855515242,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.858060241,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8610553,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.863656461,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.866395235,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.869081259,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8716837,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8748589,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.877437055,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8801115,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.882725835,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.88583225,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8891875,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.892205358,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.8985425,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.901715457,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.904431343,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.907062531,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.909652054,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.913087666,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9155601,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.91790247,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.920258343,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.922609448,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.925472736,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.927764237,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.930049837,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.932528,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.935219944,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.942116141,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9444286,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.946699858,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.949569166,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9519432,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.954276,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.956567943,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9593567,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.961680055,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.964107037,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9666116,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.968994737,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9718993,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9743574,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.97685504,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9794685,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9824951,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.98538065,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9931297,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.995947242,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 0.9986547,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.00679445,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.0094806,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.01180768,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.01646423,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.021567,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.02394819,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.02620232,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.028448,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.03097856,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.03352,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.0358485,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.03810465,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.04037964,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.04307568,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.05214834,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.05661643,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.05924273,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.06206024,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.06441569,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.06687319,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.06930256,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.072029,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.07448792,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.0768075,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.0792712,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.0819788,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.08510828,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.08804619,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.09157133,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.09757829,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.10062277,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.1033268,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.10611892,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.1119709,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.11457169,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.1170851,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.11990774,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.12278926,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.12799013,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.13056469,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.13326812,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.13639164,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.14121711,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.14385068,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.14636314,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.14948308,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.15213287,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.15466654,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.15716553,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.15979743,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.16280949,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.16555429,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.16900265,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.17171669,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.17479968,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.178677,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.18193269,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.18560076,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.18888879,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.19219089,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.19471669,
+      "Log": "Button click",
+      "Categories": [
+        "gui",
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:29)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.200105,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.20324242,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.20717216,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.21088159,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.21365929,
+      "Log": "Look! The Animator lost the animation references again!",
+      "Categories": [
+        "error",
+        "animation"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:32)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.21637249,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.21969891,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.22248089,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.22546184,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.22824264,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.23153949,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.23455286,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.23758459,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.24038088,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.2433722,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.24629819,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.248982,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.2515533,
+      "Log": "Hello world.",
+      "Categories": [
+        "system"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:53)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.25427151,
+      "Log": "Pressed A",
+      "Categories": [
+        "input"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:50)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.25712562,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.25982606,
+      "Log": "Sphere became magenta",
+      "Categories": [
+        "error",
+        "graphics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:47)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.26316488,
+      "Log": "You are clearly ignoring the profiler",
+      "Categories": [
+        "performance"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:44)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.26582062,
+      "Log": "Uhhhhh...",
+      "Categories": [
+        "warning"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:35)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.26871276,
+      "Log": "The enemy is still spinning in circles",
+      "Categories": [
+        "ai",
+        "logic"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:38)",
+        ""
+      ]
+    },
+    {
+      "TimeStamp": 1.28054965,
+      "Log": "Networked physics? Have fun with that.",
+      "Categories": [
+        "network",
+        "physics"
+      ],
+      "StackTrace": [
+        "Logist:Log(String, Tag) (at Assets\\Logist\\Logist.cs:134)",
+        "Dream.Core.Test:Update() (at Assets\\Test.cs:41)",
+        ""
+      ]
+    }
+  ]
+}
