@@ -1,0 +1,3048 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 1920
+    height: 997
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 4}
+  m_MinSize: {x: 875, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: GameView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 631
+    width: 495
+    height: 316
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 15}
+  - {fileID: 2}
+  m_Position:
+    serializedVersion: 2
+    x: 1425
+    y: 0
+    width: 495
+    height: 947
+  m_MinSize: {x: 276, y: 292}
+  m_MaxSize: {x: 4001, y: 8042}
+  vertical: 1
+  controlID: 21
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 5}
+  - {fileID: 7}
+  - {fileID: 6}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 997
+  m_MinSize: {x: 875, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 977
+    width: 1920
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 8}
+  - {fileID: 3}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1920
+    height: 947
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 18004, y: 14042}
+  vertical: 0
+  controlID: 20
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 12}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1425
+    height: 947
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 14003, y: 14042}
+  vertical: 1
+  controlID: 166
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 10}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1425
+    height: 611
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 167
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 315
+    height: 611
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectSettingsWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 315
+    y: 0
+    width: 1110
+    height: 611
+  m_MinSize: {x: 302, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 20}
+  m_Panes:
+  - {fileID: 19}
+  - {fileID: 20}
+  - {fileID: 21}
+  - {fileID: 22}
+  - {fileID: 23}
+  - {fileID: 24}
+  - {fileID: 16}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 13}
+  - {fileID: 14}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 611
+    width: 1425
+    height: 336
+  m_MinSize: {x: 333, y: 271}
+  m_MaxSize: {x: 14003, y: 10021}
+  vertical: 0
+  controlID: 27
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 611
+    height: 336
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 25}
+  m_Panes:
+  - {fileID: 25}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ConsoleWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 611
+    y: 0
+    width: 814
+    height: 336
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 26}
+  m_Panes:
+  - {fileID: 26}
+  - {fileID: 27}
+  - {fileID: 28}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: InspectorWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 495
+    height: 631
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 29}
+  m_Panes:
+  - {fileID: 29}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 315
+    y: 73
+    width: 1108
+    height: 590
+  m_ViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 2573678168263578380, guid: 1cce908ef7b1fbd4584ba52449a6a9f3, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: 1cce908ef7b1fbd4584ba52449a6a9f3,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 2573678168263578380, guid: 1cce908ef7b1fbd4584ba52449a6a9f3,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 0
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1425
+    y: 704
+    width: 494
+    height: 295
+  m_ViewDataDictionary: {fileID: 0}
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_SerializedCustomFieldsNames: []
+  m_SerializedCustomFieldsValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 494, y: 274}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 0
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -247
+    m_HBaseRangeMax: 247
+    m_VBaseRangeMin: -137
+    m_VBaseRangeMax: 137
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 494
+      height: 274
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 247, y: 137}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -247
+      y: -137
+      width: 494
+      height: 274
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 494, y: 295}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 314
+    height: 590
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 70fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 10}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 434aafe3b33e31945a72af723f5bd8c8
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 315
+    y: 73
+    width: 1108
+    height: 590
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: 130c114658a637b4c9476f48f96fee2a
+  m_Gizmos: 0
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_ExposureSliderMax: 10
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 1
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    yGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    m_ShowGrid: 0
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    speed: 2
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_Size:
+    m_Target: 10
+    speed: 2
+    m_Value: 10
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.49748743
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 60
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13854, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Project Settings
+    m_Image: {fileID: -5712115415447495865, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 315
+    y: 73
+    width: 1108
+    height: 590
+  m_ViewDataDictionary: {fileID: 0}
+  m_PosLeft: {x: 0, y: 0}
+  m_PosRight: {x: 0, y: 0}
+  m_Scope: 1
+  m_SplitterFlex: 0.2
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12070, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 880, y: 216}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Profiler
+    m_Image: {fileID: -1089619856830078684, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 315
+    y: 73
+    width: 1108
+    height: 590
+  m_ViewDataDictionary: {fileID: 0}
+  m_VertSplit:
+    ID: 3283
+    splitterInitialOffset: 338
+    currentActiveSplitter: -1
+    realSizes: 42010000f7000000
+    relativeSizes:
+    - 0.56613755
+    - 0.43386245
+    minSizes: 6400000064000000
+    maxSizes: 0000000000000000
+    lastTotalSize: 569
+    splitSize: 6
+    xOffset: 0
+  m_Recording: 1
+  m_ActiveNativePlatformSupportModule: 
+  m_CurrentArea: 0
+  m_ProfilerModules:
+  - id: 0
+  - id: 1
+  - id: 2
+  - id: 3
+  - id: 4
+  - id: 5
+  - id: 6
+  - id: 7
+  - id: 8
+  - id: 9
+  - id: 10
+  - id: 11
+  - id: 12
+  m_ClearOnPlay: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: CPUProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+        m_ViewType: 0
+        m_ProfilerViewFilteringOptions: 1
+        m_FrameDataHierarchyView:
+          m_Serialized: 1
+          m_TreeViewState:
+            scrollPos: {x: 0, y: 0}
+            m_SelectedIDs: 
+            m_LastClickedID: 0
+            m_ExpandedIDs: 010000003c0000005f0000009c000000
+            m_RenameOverlay:
+              m_UserAcceptedRename: 0
+              m_Name: 
+              m_OriginalName: 
+              m_EditFieldRect:
+                serializedVersion: 2
+                x: 0
+                y: 0
+                width: 0
+                height: 0
+              m_UserData: 0
+              m_IsWaitingForDelay: 0
+              m_IsRenaming: 0
+              m_OriginalEventType: 11
+              m_IsRenamingFilename: 0
+              m_ClientGUIView: {fileID: 0}
+            m_SearchString: 
+          m_MultiColumnHeaderState:
+            m_Columns:
+            - width: 200
+              sortedAscending: 1
+            - width: 80
+              sortedAscending: 0
+            - width: 80
+              sortedAscending: 0
+            - width: 80
+              sortedAscending: 0
+            - width: 80
+              sortedAscending: 0
+            - width: 80
+              sortedAscending: 0
+            - width: 80
+              sortedAscending: 0
+            - width: 25
+              sortedAscending: 0
+            m_VisibleColumns: 0000000001000000020000000300000004000000050000000600000007000000
+            m_SortedColumns: 05000000
+          m_ThreadIndex: 0
+          m_DetailedViewType: 0
+          m_DetailedViewSpliterState:
+            ID: 0
+            splitterInitialOffset: 0
+            currentActiveSplitter: -1
+            realSizes: 0000000000000000
+            relativeSizes:
+            - 0.7
+            - 0.3
+            minSizes: c201000032000000
+            maxSizes: 0000000000000000
+            lastTotalSize: 0
+            splitSize: 6
+            xOffset: 0
+          m_DetailedObjectsView:
+            m_SelectedID: 0
+            m_TreeViewState:
+              scrollPos: {x: 0, y: 0}
+              m_SelectedIDs: 
+              m_LastClickedID: 0
+              m_ExpandedIDs: 
+              m_RenameOverlay:
+                m_UserAcceptedRename: 0
+                m_Name: 
+                m_OriginalName: 
+                m_EditFieldRect:
+                  serializedVersion: 2
+                  x: 0
+                  y: 0
+                  width: 0
+                  height: 0
+                m_UserData: 0
+                m_IsWaitingForDelay: 0
+                m_IsRenaming: 0
+                m_OriginalEventType: 11
+                m_IsRenamingFilename: 0
+                m_ClientGUIView: {fileID: 0}
+              m_SearchString: 
+            m_MultiColumnHeaderState:
+              m_Columns: []
+              m_VisibleColumns: 
+              m_SortedColumns: 
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: 
+              relativeSizes: []
+              minSizes: 
+              maxSizes: 
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+          m_DetailedCallsView:
+            m_SelectedID: -1
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: 
+              relativeSizes: []
+              minSizes: 
+              maxSizes: 
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+            m_CalleesTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+            m_CallersTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+          m_ThreadName: Main Thread
+    00000001:
+      type: {class: GPUProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+        m_ViewType: 0
+        m_ProfilerViewFilteringOptions: 1
+        m_FrameDataHierarchyView:
+          m_Serialized: 0
+          m_TreeViewState:
+            scrollPos: {x: 0, y: 0}
+            m_SelectedIDs: 
+            m_LastClickedID: 0
+            m_ExpandedIDs: 
+            m_RenameOverlay:
+              m_UserAcceptedRename: 0
+              m_Name: 
+              m_OriginalName: 
+              m_EditFieldRect:
+                serializedVersion: 2
+                x: 0
+                y: 0
+                width: 0
+                height: 0
+              m_UserData: 0
+              m_IsWaitingForDelay: 0
+              m_IsRenaming: 0
+              m_OriginalEventType: 11
+              m_IsRenamingFilename: 0
+              m_ClientGUIView: {fileID: 0}
+            m_SearchString: 
+          m_MultiColumnHeaderState:
+            m_Columns: []
+            m_VisibleColumns: 
+            m_SortedColumns: 
+          m_ThreadIndex: 0
+          m_DetailedViewType: 0
+          m_DetailedViewSpliterState:
+            ID: 0
+            splitterInitialOffset: 0
+            currentActiveSplitter: 0
+            realSizes: 
+            relativeSizes: []
+            minSizes: 
+            maxSizes: 
+            lastTotalSize: 0
+            splitSize: 0
+            xOffset: 0
+          m_DetailedObjectsView:
+            m_SelectedID: 0
+            m_TreeViewState:
+              scrollPos: {x: 0, y: 0}
+              m_SelectedIDs: 
+              m_LastClickedID: 0
+              m_ExpandedIDs: 
+              m_RenameOverlay:
+                m_UserAcceptedRename: 0
+                m_Name: 
+                m_OriginalName: 
+                m_EditFieldRect:
+                  serializedVersion: 2
+                  x: 0
+                  y: 0
+                  width: 0
+                  height: 0
+                m_UserData: 0
+                m_IsWaitingForDelay: 0
+                m_IsRenaming: 0
+                m_OriginalEventType: 11
+                m_IsRenamingFilename: 0
+                m_ClientGUIView: {fileID: 0}
+              m_SearchString: 
+            m_MultiColumnHeaderState:
+              m_Columns: []
+              m_VisibleColumns: 
+              m_SortedColumns: 
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: 
+              relativeSizes: []
+              minSizes: 
+              maxSizes: 
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+          m_DetailedCallsView:
+            m_SelectedID: -1
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: 
+              relativeSizes: []
+              minSizes: 
+              maxSizes: 
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+            m_CalleesTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+            m_CallersTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                - width: 60
+                  sortedAscending: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+          m_ThreadName: Main Thread
+    00000002:
+      type: {class: RenderingProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+    00000003:
+      type: {class: MemoryProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+        m_ViewSplit:
+          ID: 0
+          splitterInitialOffset: 0
+          currentActiveSplitter: -1
+          realSizes: 0000000000000000
+          relativeSizes:
+          - 0.7
+          - 0.3
+          minSizes: c201000032000000
+          maxSizes: 0000000000000000
+          lastTotalSize: 0
+          splitSize: 6
+          xOffset: 0
+    00000004:
+      type: {class: AudioProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+        m_ShowInactiveDSPChains: 0
+        m_HighlightAudibleDSPChains: 1
+        m_DSPGraphZoomFactor: 1
+    00000005:
+      type: {class: VideoProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+    00000006:
+      type: {class: PhysicsProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+    00000007:
+      type: {class: Physics2DProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+    00000008:
+      type: {class: NetworkingMessagesProfilerModule, ns: UnityEditorInternal.Profiling,
+        asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+    00000009:
+      type: {class: NetworkingOperationsProfilerModule, ns: UnityEditorInternal.Profiling,
+        asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+        m_NetworkSplit:
+          ID: 0
+          splitterInitialOffset: 0
+          currentActiveSplitter: -1
+          realSizes: 0000000000000000
+          relativeSizes:
+          - 0.2
+          - 0.8
+          minSizes: 6400000064000000
+          maxSizes: 0000000000000000
+          lastTotalSize: 0
+          splitSize: 6
+          xOffset: 0
+        msgNames:
+        - UserMessage
+        - ObjectDestroy
+        - ClientRpc
+        - ObjectSpawn
+        - Owner
+        - Command
+        - LocalPlayerTransform
+        - SyncEvent
+        - SyncVars
+        - SyncList
+        - ObjectSpawnScene
+        - NetworkInfo
+        - SpawnFinished
+        - ObjectHide
+        - CRC
+        - ClientAuthority
+    0000000A:
+      type: {class: UIProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+    0000000B:
+      type: {class: UIDetailsProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+    0000000C:
+      type: {class: GlobalIlluminationProfilerModule, ns: UnityEditorInternal.Profiling,
+        asm: UnityEditor}
+      data:
+        m_PaneScroll: {x: 0, y: 0}
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12079, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 390, y: 390}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Lighting
+    m_Image: {fileID: -1347227620855488341, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 315
+    y: 73
+    width: 1108
+    height: 590
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &23
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 315
+    y: 73
+    width: 1108
+    height: 590
+  m_ViewDataDictionary: {fileID: 0}
+  m_Spl:
+    ID: 10092
+    splitterInitialOffset: 0
+    currentActiveSplitter: -1
+    realSizes: 8601000082000000
+    relativeSizes:
+    - 0.75
+    - 0.25
+    minSizes: 2000000020000000
+    maxSizes: 0000000000000000
+    lastTotalSize: 520
+    splitSize: 6
+    xOffset: 0
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 23}
+    newResultList:
+    - id: 1000
+      uniqueId: '[Tales Combat Lab][suite]'
+      name: Tales Combat Lab
+      fullName: Tales Combat Lab
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1039
+      uniqueId: '[E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsPlaymode.dll][suite]'
+      name: NavMeshComponentsTestsPlaymode.dll
+      fullName: E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsPlaymode.dll
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[Tales Combat Lab][suite]'
+    - id: 1001
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests][suite]
+      name: NavMeshSurfaceAgentTests
+      fullName: NavMeshSurfaceAgentTests
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1039
+      parentUniqueId: '[E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsPlaymode.dll][suite]'
+    - id: 1004
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceAgentTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests.AgentAlignsToSurfaceNextFrame]
+      name: AgentAlignsToSurfaceNextFrame
+      fullName: NavMeshSurfaceAgentTests.AgentAlignsToSurfaceNextFrame
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests][suite]
+    - id: 1003
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceAgentTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests.AgentDetachesAndAttachesToSurface]
+      name: AgentDetachesAndAttachesToSurface
+      fullName: NavMeshSurfaceAgentTests.AgentDetachesAndAttachesToSurface
+      resultStatus: 0
+      duration: 0
+      messages: '1012991 : Missing functionality for notifying the NavMeshAgent about
+        the removal of the NavMesh.'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 1
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests][suite]
+    - id: 1005
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceAgentTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests.AgentDoesNotAlignToSurfaceNextFrame]
+      name: AgentDoesNotAlignToSurfaceNextFrame
+      fullName: NavMeshSurfaceAgentTests.AgentDoesNotAlignToSurfaceNextFrame
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests][suite]
+    - id: 1002
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceAgentTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests.AgentIdentifiesSurfaceOwner]
+      name: AgentIdentifiesSurfaceOwner
+      fullName: NavMeshSurfaceAgentTests.AgentIdentifiesSurfaceOwner
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceAgentTests][suite]
+    - id: 1006
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests][suite]
+      name: NavMeshSurfaceLinkTests
+      fullName: NavMeshSurfaceLinkTests
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1039
+      parentUniqueId: '[E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsPlaymode.dll][suite]'
+    - id: 1009
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceLinkTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests.ChangingAreaTypeCanBlockPath]
+      name: ChangingAreaTypeCanBlockPath
+      fullName: NavMeshSurfaceLinkTests.ChangingAreaTypeCanBlockPath
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1006
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests][suite]
+    - id: 1012
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceLinkTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests.ChangingCostModifierAffectsRoute]
+      name: ChangingCostModifierAffectsRoute
+      fullName: NavMeshSurfaceLinkTests.ChangingCostModifierAffectsRoute
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1006
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests][suite]
+    - id: 1008
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceLinkTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests.DisablingBidirectionalMakesTheLinkOneWay]
+      name: DisablingBidirectionalMakesTheLinkOneWay
+      fullName: NavMeshSurfaceLinkTests.DisablingBidirectionalMakesTheLinkOneWay
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1006
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests][suite]
+    - id: 1011
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceLinkTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests.EndpointsMoveRelativeToLinkNextFrameWhenAutoUpdating]
+      name: EndpointsMoveRelativeToLinkNextFrameWhenAutoUpdating
+      fullName: NavMeshSurfaceLinkTests.EndpointsMoveRelativeToLinkNextFrameWhenAutoUpdating
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1006
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests][suite]
+    - id: 1010
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceLinkTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests.EndpointsMoveRelativeToLinkOnUpdate]
+      name: EndpointsMoveRelativeToLinkOnUpdate
+      fullName: NavMeshSurfaceLinkTests.EndpointsMoveRelativeToLinkOnUpdate
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1006
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests][suite]
+    - id: 1007
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceLinkTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests.NavMeshLinkCanConnectTwoSurfaces]
+      name: NavMeshLinkCanConnectTwoSurfaces
+      fullName: NavMeshSurfaceLinkTests.NavMeshLinkCanConnectTwoSurfaces
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1006
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceLinkTests][suite]
+    - id: 1013
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests][suite]
+      name: NavMeshSurfaceModifierTests
+      fullName: NavMeshSurfaceModifierTests
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1039
+      parentUniqueId: '[E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsPlaymode.dll][suite]'
+    - id: 1015
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests.ModifierIgnoreAffectsChild]
+      name: ModifierIgnoreAffectsChild
+      fullName: NavMeshSurfaceModifierTests.ModifierIgnoreAffectsChild
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests][suite]
+    - id: 1014
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests.ModifierIgnoreAffectsSelf]
+      name: ModifierIgnoreAffectsSelf
+      fullName: NavMeshSurfaceModifierTests.ModifierIgnoreAffectsSelf
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests][suite]
+    - id: 1016
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests.ModifierIgnoreDoesNotAffectSibling]
+      name: ModifierIgnoreDoesNotAffectSibling
+      fullName: NavMeshSurfaceModifierTests.ModifierIgnoreDoesNotAffectSibling
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests][suite]
+    - id: 1018
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests.ModifierOverrideAreaAffectsChild]
+      name: ModifierOverrideAreaAffectsChild
+      fullName: NavMeshSurfaceModifierTests.ModifierOverrideAreaAffectsChild
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests][suite]
+    - id: 1017
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests.ModifierOverrideAreaAffectsSelf]
+      name: ModifierOverrideAreaAffectsSelf
+      fullName: NavMeshSurfaceModifierTests.ModifierOverrideAreaAffectsSelf
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests][suite]
+    - id: 1019
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests.ModifierOverrideAreaDoesNotAffectSibling]
+      name: ModifierOverrideAreaDoesNotAffectSibling
+      fullName: NavMeshSurfaceModifierTests.ModifierOverrideAreaDoesNotAffectSibling
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierTests][suite]
+    - id: 1020
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierVolumeTests][suite]
+      name: NavMeshSurfaceModifierVolumeTests
+      fullName: NavMeshSurfaceModifierVolumeTests
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1039
+      parentUniqueId: '[E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsPlaymode.dll][suite]'
+    - id: 1021
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierVolumeTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierVolumeTests.AreaAffectsNavMeshOverlapping]
+      name: AreaAffectsNavMeshOverlapping
+      fullName: NavMeshSurfaceModifierVolumeTests.AreaAffectsNavMeshOverlapping
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierVolumeTests][suite]
+    - id: 1022
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierVolumeTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierVolumeTests.AreaDoesNotAffectsNavMeshWhenNotOverlapping]
+      name: AreaDoesNotAffectsNavMeshWhenNotOverlapping
+      fullName: NavMeshSurfaceModifierVolumeTests.AreaDoesNotAffectsNavMeshWhenNotOverlapping
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierVolumeTests][suite]
+    - id: 1023
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceModifierVolumeTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierVolumeTests.BuildUsesOnlyIncludedModifierVolume]
+      name: BuildUsesOnlyIncludedModifierVolume
+      fullName: NavMeshSurfaceModifierVolumeTests.BuildUsesOnlyIncludedModifierVolume
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceModifierVolumeTests][suite]
+    - id: 1024
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+      name: NavMeshSurfaceTests
+      fullName: NavMeshSurfaceTests
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1039
+      parentUniqueId: '[E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsPlaymode.dll][suite]'
+    - id: 1036
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.ActiveSurfacesContainsOnlyActiveAndEnabledSurface]
+      name: ActiveSurfacesContainsOnlyActiveAndEnabledSurface
+      fullName: NavMeshSurfaceTests.ActiveSurfacesContainsOnlyActiveAndEnabledSurface
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1032
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.BuildIgnoresGeometryOutsideBounds]
+      name: BuildIgnoresGeometryOutsideBounds
+      fullName: NavMeshSurfaceTests.BuildIgnoresGeometryOutsideBounds
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1033
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.BuildIgnoresGeometrySiblings]
+      name: BuildIgnoresGeometrySiblings
+      fullName: NavMeshSurfaceTests.BuildIgnoresGeometrySiblings
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1034
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.BuildUsesOnlyIncludedLayers]
+      name: BuildUsesOnlyIncludedLayers
+      fullName: NavMeshSurfaceTests.BuildUsesOnlyIncludedLayers
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1030
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.CanBuildCollidersAndIgnoreRenderMeshes]
+      name: CanBuildCollidersAndIgnoreRenderMeshes
+      fullName: NavMeshSurfaceTests.CanBuildCollidersAndIgnoreRenderMeshes
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1031
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.CanBuildRenderMeshesAndIgnoreColliders]
+      name: CanBuildRenderMeshesAndIgnoreColliders
+      fullName: NavMeshSurfaceTests.CanBuildRenderMeshesAndIgnoreColliders
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1029
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.CanBuildWithCustomAgentTypeID]
+      name: CanBuildWithCustomAgentTypeID
+      fullName: NavMeshSurfaceTests.CanBuildWithCustomAgentTypeID
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1028
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.CanBuildWithCustomArea]
+      name: CanBuildWithCustomArea
+      fullName: NavMeshSurfaceTests.CanBuildWithCustomArea
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1035
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.DefaultSettingsMatchBuiltinSettings]
+      name: DefaultSettingsMatchBuiltinSettings
+      fullName: NavMeshSurfaceTests.DefaultSettingsMatchBuiltinSettings
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1026
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.NavMeshCanBeRemovedAndAdded]
+      name: NavMeshCanBeRemovedAndAdded
+      fullName: NavMeshSurfaceTests.NavMeshCanBeRemovedAndAdded
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1025
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.NavMeshIsAvailableAfterBuild]
+      name: NavMeshIsAvailableAfterBuild
+      fullName: NavMeshSurfaceTests.NavMeshIsAvailableAfterBuild
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1027
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.NavMeshIsNotAvailableWhenDisabled]
+      name: NavMeshIsNotAvailableWhenDisabled
+      fullName: NavMeshSurfaceTests.NavMeshIsNotAvailableWhenDisabled
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1037
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.NavMeshMovesToSurfacePositionNextFrame]
+      name: NavMeshMovesToSurfacePositionNextFrame
+      fullName: NavMeshSurfaceTests.NavMeshMovesToSurfacePositionNextFrame
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    - id: 1038
+      uniqueId: NavMeshComponentsTestsPlaymode.dll/NavMeshSurfaceTests/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests.UpdatingAndAddingNavMesh]
+      name: UpdatingAndAddingNavMesh
+      fullName: NavMeshSurfaceTests.UpdatingAndAddingNavMesh
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1024
+      parentUniqueId: NavMeshComponentsTestsPlaymode.dll/[NavMeshComponentsTestsPlaymode][NavMeshSurfaceTests][suite]
+    m_ResultText: 'Dream in Color (0.352s)
+
+      ---
+
+      One or more child tests
+      were ignored'
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 23cfbbf9
+      m_LastClickedID: -105132253
+      m_ExpandedIDs: 4eab679374af6b9601621a99b69ee8e70884a1e823cfbbf9d285c41d45d21e3f4cde124707425a776e0ddc7affffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 23}
+    newResultList:
+    - id: 1041
+      uniqueId: '[Tales Combat Lab][suite]'
+      name: Tales Combat Lab
+      fullName: Tales Combat Lab
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1071
+      uniqueId: '[E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsEditmode.dll][suite]'
+      name: NavMeshComponentsTestsEditmode.dll
+      fullName: E:/Game Development/Dream Projects/Tales Combat Lab/Library/ScriptAssemblies/NavMeshComponentsTestsEditmode.dll
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1041
+      parentUniqueId: '[Tales Combat Lab][suite]'
+    - id: 1009
+      uniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshModifierVolumeInPrefabTests][suite]
+      name: NavMeshModifierVolumeInPrefabTests
+      fullName: NavMeshModifierVolumeInPrefabTests
+      resultStatus: 2
+      duration: 0.1322939
+      messages: 'System.ArgumentException : Cannot open scene with path "NavMeshModifierVolumePrefabTestsScene.unity".'
+      output: 'Cannot open scene at path NavMeshModifierVolumePrefabTestsScene.unity.
+        Maybe the scene hasn''t been imported. This can be done with an AssetDatabase.Refresh()
+        call.
+
+        Can not delete asset.  is not a valid path.
+
+'
+      stacktrace: "  at (wrapper managed-to-native) UnityEditor.SceneManagement.EditorSceneManager.OpenScene_Injected(string,UnityEditor.SceneManagement.OpenSceneMode,UnityEngine.SceneManagement.Scene&)\r\n 
+        at UnityEditor.SceneManagement.EditorSceneManager.OpenScene (System.String
+        scenePath, UnityEditor.SceneManagement.OpenSceneMode mode) [0x00000] in <480b5a3bd3214ce5831f6dd8c68fdc55>:0
+        \r\n  at UnityEditor.SceneManagement.EditorSceneManager.OpenScene (System.String
+        scenePath) [0x00001] in <480b5a3bd3214ce5831f6dd8c68fdc55>:0 \r\n  at NavMeshModifierVolumeInPrefabTests.OneTimeSetup
+        () [0x00084] in E:\\Game Development\\Dream Projects\\Dream in Color\\Assets\\NavMesh
+        Components\\Tests\\Editor\\NavMeshModifierVolumeInPrefabTests.cs:51 \r\n 
+        at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <437ba245d8404784b9fbab9b439ac908>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories:
+      - PrefabsWithNavMeshModifierVolume
+      parentId: 1038
+      parentUniqueId: '[E:/Game Development/Dream Projects/Dream in Color/Library/ScriptAssemblies/NavMeshComponentsTestsEditmode.dll][suite]'
+    - id: 1011
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshModifierVolumeInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshModifierVolumeInPrefabTests.ModifierVolume_WhenInsidePrefabMode_DoesNotAffectTheNavMeshInMainScene]
+      name: ModifierVolume_WhenInsidePrefabMode_DoesNotAffectTheNavMeshInMainScene
+      fullName: NavMeshModifierVolumeInPrefabTests.ModifierVolume_WhenInsidePrefabMode_DoesNotAffectTheNavMeshInMainScene
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshModifierVolumePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshModifierVolume
+      parentId: 1009
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshModifierVolumeInPrefabTests][suite]
+    - id: 1010
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshModifierVolumeInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshModifierVolumeInPrefabTests.ModifierVolume_WhenInsidePrefabMode_ModifiesTheNavMeshInPrefab]
+      name: ModifierVolume_WhenInsidePrefabMode_ModifiesTheNavMeshInPrefab
+      fullName: NavMeshModifierVolumeInPrefabTests.ModifierVolume_WhenInsidePrefabMode_ModifiesTheNavMeshInPrefab
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshModifierVolumePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshModifierVolume
+      parentId: 1009
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshModifierVolumeInPrefabTests][suite]
+    - id: 1012
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshModifierVolumeInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshModifierVolumeInPrefabTests.ModifierVolume_WhenOutsidePrefabMode_DoesNotAffectTheNavMeshInPrefab]
+      name: ModifierVolume_WhenOutsidePrefabMode_DoesNotAffectTheNavMeshInPrefab
+      fullName: NavMeshModifierVolumeInPrefabTests.ModifierVolume_WhenOutsidePrefabMode_DoesNotAffectTheNavMeshInPrefab
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshModifierVolumePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshModifierVolume
+      parentId: 1009
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshModifierVolumeInPrefabTests][suite]
+    - id: 1013
+      uniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+      name: NavMeshSurfaceInPrefabTests
+      fullName: NavMeshSurfaceInPrefabTests
+      resultStatus: 2
+      duration: 0.1429243
+      messages: 'System.ArgumentException : Cannot open scene with path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 'Cannot open scene at path NavMeshSurfacePrefabTestsScene.unity. Maybe
+        the scene hasn''t been imported. This can be done with an AssetDatabase.Refresh()
+        call.
+
+        Can not delete asset.  is not a valid path.
+
+'
+      stacktrace: "  at (wrapper managed-to-native) UnityEditor.SceneManagement.EditorSceneManager.OpenScene_Injected(string,UnityEditor.SceneManagement.OpenSceneMode,UnityEngine.SceneManagement.Scene&)\r\n 
+        at UnityEditor.SceneManagement.EditorSceneManager.OpenScene (System.String
+        scenePath, UnityEditor.SceneManagement.OpenSceneMode mode) [0x00000] in <480b5a3bd3214ce5831f6dd8c68fdc55>:0
+        \r\n  at UnityEditor.SceneManagement.EditorSceneManager.OpenScene (System.String
+        scenePath) [0x00001] in <480b5a3bd3214ce5831f6dd8c68fdc55>:0 \r\n  at NavMeshSurfaceInPrefabTests.OneTimeSetup
+        () [0x00084] in E:\\Game Development\\Dream Projects\\Dream in Color\\Assets\\NavMesh
+        Components\\Tests\\Editor\\NavMeshSurfaceInPrefabTests.cs:54 \r\n  at (wrapper
+        managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <437ba245d8404784b9fbab9b439ac908>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1038
+      parentUniqueId: '[E:/Game Development/Dream Projects/Dream in Color/Library/ScriptAssemblies/NavMeshComponentsTestsEditmode.dll][suite]'
+    - id: 1015
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterBakingInPrefabMode_DoesNotActivateItsNavMesh]
+      name: NavMeshSurfacePrefab_AfterBakingInPrefabMode_DoesNotActivateItsNavMesh
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterBakingInPrefabMode_DoesNotActivateItsNavMesh
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1016
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterBakingInPrefabMode_LeavesMainSceneUntouched]
+      name: NavMeshSurfacePrefab_AfterBakingInPrefabMode_LeavesMainSceneUntouched
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterBakingInPrefabMode_LeavesMainSceneUntouched
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1030
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterClearedInstanceAppliedBack_HasEmptyData]
+      name: NavMeshSurfacePrefab_AfterClearedInstanceAppliedBack_HasEmptyData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterClearedInstanceAppliedBack_HasEmptyData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1061
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterModifiedInstanceAppliedBack_TheOldAssetNoLongerExists]
+      name: NavMeshSurfacePrefab_AfterModifiedInstanceAppliedBack_TheOldAssetNoLongerExists
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterModifiedInstanceAppliedBack_TheOldAssetNoLongerExists
+      resultStatus: 0
+      duration: 0
+      messages: Currently the deletion of the old asset must be done manually.
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 1
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1046
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1029
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterModifiedInstanceAppliedBack_UpdatedAccordingToInstance]
+      name: NavMeshSurfacePrefab_AfterModifiedInstanceAppliedBack_UpdatedAccordingToInstance
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_AfterModifiedInstanceAppliedBack_UpdatedAccordingToInstance
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1019
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenBakesNewNavMesh_UpdatesTheInstance]
+      name: NavMeshSurfacePrefab_WhenBakesNewNavMesh_UpdatesTheInstance
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenBakesNewNavMesh_UpdatesTheInstance
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1034
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenBakingInPreviewScene_CollectsOnlyPreviewSceneObjects]
+      name: NavMeshSurfacePrefab_WhenBakingInPreviewScene_CollectsOnlyPreviewSceneObjects
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenBakingInPreviewScene_CollectsOnlyPreviewSceneObjects
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1066
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenDeleted_InstancesMakeCopiesOfData]
+      name: NavMeshSurfacePrefab_WhenDeleted_InstancesMakeCopiesOfData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenDeleted_InstancesMakeCopiesOfData
+      resultStatus: 0
+      duration: 0
+      messages: The expected behaviour has not been decided.
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 1
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1046
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1018
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenEmptyAndInstantiated_InstanceHasEmptyNavMeshData]
+      name: NavMeshSurfacePrefab_WhenEmptyAndInstantiated_InstanceHasEmptyNavMeshData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenEmptyAndInstantiated_InstanceHasEmptyNavMeshData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1021
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceCleared_InstanceHasEmptyNavMeshData]
+      name: NavMeshSurfacePrefab_WhenInstanceCleared_InstanceHasEmptyNavMeshData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceCleared_InstanceHasEmptyNavMeshData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1022
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceCleared_PrefabKeepsNavMeshData]
+      name: NavMeshSurfacePrefab_WhenInstanceCleared_PrefabKeepsNavMeshData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceCleared_PrefabKeepsNavMeshData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1020
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceRebaked_HasDifferentNavMeshData]
+      name: NavMeshSurfacePrefab_WhenInstanceRebaked_HasDifferentNavMeshData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceRebaked_HasDifferentNavMeshData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1031
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceRevertsBack_InstanceIsLikePrefab]
+      name: NavMeshSurfacePrefab_WhenInstanceRevertsBack_InstanceIsLikePrefab
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceRevertsBack_InstanceIsLikePrefab
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1065
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceRevertsBack_TheInstanceAssetNoLongerExists]
+      name: NavMeshSurfacePrefab_WhenInstanceRevertsBack_TheInstanceAssetNoLongerExists
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstanceRevertsBack_TheInstanceAssetNoLongerExists
+      resultStatus: 0
+      duration: 0
+      messages: Deletion of the old asset is expected to be done manually for the
+        time being.
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 1
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1046
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1017
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstantiated_ReferencesTheSameNavMeshData]
+      name: NavMeshSurfacePrefab_WhenInstantiated_ReferencesTheSameNavMeshData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenInstantiated_ReferencesTheSameNavMeshData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1014
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenOpenedInPrefabMode_DoesNotActivateItsNavMesh]
+      name: NavMeshSurfacePrefab_WhenOpenedInPrefabMode_DoesNotActivateItsNavMesh
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenOpenedInPrefabMode_DoesNotActivateItsNavMesh
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1026
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebaked_TheOldAssetExistsUntilSavingAndNotAfter]
+      name: NavMeshSurfacePrefab_WhenRebaked_TheOldAssetExistsUntilSavingAndNotAfter
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebaked_TheOldAssetExistsUntilSavingAndNotAfter
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1027
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedAndAutoSaved_InstanceHasTheNewNavMeshData]
+      name: NavMeshSurfacePrefab_WhenRebakedAndAutoSaved_InstanceHasTheNewNavMeshData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedAndAutoSaved_InstanceHasTheNewNavMeshData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1023
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedButInstanceModified_DoesNotChangeInstance]
+      name: NavMeshSurfacePrefab_WhenRebakedButInstanceModified_DoesNotChangeInstance
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedButInstanceModified_DoesNotChangeInstance
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1024
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedButNotSaved_RevertsToTheInitialNavMeshData]
+      name: NavMeshSurfacePrefab_WhenRebakedButNotSaved_RevertsToTheInitialNavMeshData
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedButNotSaved_RevertsToTheInitialNavMeshData
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1025
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedButNotSaved_TheRebakedAssetNoLongerExists]
+      name: NavMeshSurfacePrefab_WhenRebakedButNotSaved_TheRebakedAssetNoLongerExists
+      fullName: NavMeshSurfaceInPrefabTests.NavMeshSurfacePrefab_WhenRebakedButNotSaved_TheRebakedAssetNoLongerExists
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1013
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabTests][suite]
+    - id: 1035
+      uniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabVariantTests][suite]
+      name: NavMeshSurfaceInPrefabVariantTests
+      fullName: NavMeshSurfaceInPrefabVariantTests
+      resultStatus: 2
+      duration: 0.1231102
+      messages: 'System.ArgumentException : Cannot open scene with path "NavMeshSurfacePrefabVariantTestsScene.unity".'
+      output: 'Cannot open scene at path NavMeshSurfacePrefabVariantTestsScene.unity.
+        Maybe the scene hasn''t been imported. This can be done with an AssetDatabase.Refresh()
+        call.
+
+        Can not delete asset.  is not a valid path.
+
+'
+      stacktrace: "  at (wrapper managed-to-native) UnityEditor.SceneManagement.EditorSceneManager.OpenScene_Injected(string,UnityEditor.SceneManagement.OpenSceneMode,UnityEngine.SceneManagement.Scene&)\r\n 
+        at UnityEditor.SceneManagement.EditorSceneManager.OpenScene (System.String
+        scenePath, UnityEditor.SceneManagement.OpenSceneMode mode) [0x00000] in <480b5a3bd3214ce5831f6dd8c68fdc55>:0
+        \r\n  at UnityEditor.SceneManagement.EditorSceneManager.OpenScene (System.String
+        scenePath) [0x00001] in <480b5a3bd3214ce5831f6dd8c68fdc55>:0 \r\n  at NavMeshSurfaceInPrefabVariantTests.OneTimeSetup
+        () [0x00084] in E:\\Game Development\\Dream Projects\\Dream in Color\\Assets\\NavMesh
+        Components\\Tests\\Editor\\NavMeshSurfaceInPrefabVariantTests.cs:54 \r\n 
+        at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <437ba245d8404784b9fbab9b439ac908>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1038
+      parentUniqueId: '[E:/Game Development/Dream Projects/Dream in Color/Library/ScriptAssemblies/NavMeshComponentsTestsEditmode.dll][suite]'
+    - id: 1037
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabVariantTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabVariantTests.NavMeshSurfacePrefabVariant_WhenCustomizedAndRebaked_OldAssetDiscardedAndParentAssetUnchanged]
+      name: NavMeshSurfacePrefabVariant_WhenCustomizedAndRebaked_OldAssetDiscardedAndParentAssetUnchanged
+      fullName: NavMeshSurfaceInPrefabVariantTests.NavMeshSurfacePrefabVariant_WhenCustomizedAndRebaked_OldAssetDiscardedAndParentAssetUnchanged
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabVariantTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1035
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabVariantTests][suite]
+    - id: 1036
+      uniqueId: NavMeshComponentsTestsEditmode.dll/NavMeshSurfaceInPrefabVariantTests/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabVariantTests.NavMeshSurfacePrefabVariant_WhenFreshAndRebaked_ParentAssetUnchanged]
+      name: NavMeshSurfacePrefabVariant_WhenFreshAndRebaked_ParentAssetUnchanged
+      fullName: NavMeshSurfaceInPrefabVariantTests.NavMeshSurfacePrefabVariant_WhenFreshAndRebaked_ParentAssetUnchanged
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Cannot open scene with
+        path "NavMeshSurfacePrefabVariantTestsScene.unity".'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - PrefabsWithNavMeshComponents
+      parentId: 1035
+      parentUniqueId: NavMeshComponentsTestsEditmode.dll/[NavMeshComponentsTestsEditmode][NavMeshSurfaceInPrefabVariantTests][suite]
+    m_ResultText: 'ModifierVolume_WhenInsidePrefabMode_DoesNotAffectTheNavMeshInMainScene
+      (0.000s)
+
+      ---
+
+      OneTimeSetUp: System.ArgumentException : Cannot
+      open scene with path "NavMeshModifierVolumePrefabTestsScene.unity".'
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 6c95af21
+      m_LastClickedID: 565155180
+      m_ExpandedIDs: 1b6a83882934e68d74af6b96548638c7a50e41d66cbd4cddee2319f323cfbbf972896e09bcb3850c8190a150a50ccd5b8944b05d9e622a706e0ddc7a062c657dffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - PrefabsWithNavMeshComponents
+      - PrefabsWithNavMeshModifierVolume
+      - Uncategorized
+--- !u!114 &24
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: -8693916549880196297, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 368
+    y: 73
+    width: 1097
+    height: 592
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &25
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 684
+    width: 610
+    height: 315
+  m_ViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: E:\Game Development\Loggerhead 2.0 - Unity\Logist
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: d4330000
+    m_LastClickedID: 13268
+    m_ExpandedIDs: 00000000d433000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000d4330000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: e2d00000501c8efff63605000c0c010062790000ee0a01007e290100063c0100243d0100240a030050710000dc710000fc34000022dfffff1038000036b4000010930000149300002c930000a4400000da40000012410000ec41000076400000a2d50100d6d7010058dd010054d201008cdf0100a6e001005a42000014430000dafe00009c580000f46a00005839010028390100665b0100725b0100684100002c410000503e0000e4f8ffff504100006e41000038410000744f00008c5000005c4e0000444d0000e4560000fc5700009c8d00008e980000844a0000684b0000aa4a0000604a00005c4a00001652000012600000c42b010006980100c4940100749d0100f8a30100489b0100a09f0100d8590000f648000032580000c655000082570000dc3d0100ec52000098490100c84b0100e84c0100004e0100184f01003e550000c6560000da560000de560000ac56000000550000787f0100908001000c86010090cb02009452000036590000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 13}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 16
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 174
+--- !u!114 &26
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 611
+    y: 684
+    width: 812
+    height: 315
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &27
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12373, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Audio Mixer
+    m_Image: {fileID: 2344599766593239149, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 628
+    y: 684
+    width: 841
+    height: 315
+  m_ViewDataDictionary: {fileID: 0}
+  m_MixersTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: -73020
+    m_ExpandedIDs: 12eb343c
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 14}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_LayoutStripsOnTop:
+    m_VerticalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 4100000023000000
+      relativeSizes:
+      - 0.65
+      - 0.35000002
+      minSizes: 5500000069000000
+      maxSizes: 0000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+    m_HorizontalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 3c0000003c0000003c0000003c000000
+      relativeSizes:
+      - 0.25
+      - 0.25
+      - 0.25
+      - 0.25
+      minSizes: 55000000550000005500000055000000
+      maxSizes: 00000000000000000000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+  m_LayoutStripsOnRight:
+    m_VerticalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 3c0000003c0000003c0000003c000000
+      relativeSizes:
+      - 0.25
+      - 0.25
+      - 0.25
+      - 0.25
+      minSizes: 64000000550000005500000055000000
+      maxSizes: 00000000000000000000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+    m_HorizontalSplitter:
+      ID: 81
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: fc0000004d020000
+      relativeSizes:
+      - 0.3
+      - 0.7
+      minSizes: a0000000a0000000
+      maxSizes: 0000000000000000
+      lastTotalSize: 841
+      splitSize: 6
+      xOffset: 0
+  m_SectionOrder: 00000000030000000100000002000000
+  m_LayoutMode: 1
+  m_SortGroupsAlphabetically: 0
+  m_ShowReferencedBuses: 1
+  m_ShowBusConnections: 0
+  m_ShowBusConnectionsOfSelection: 0
+--- !u!114 &28
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animation
+    m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 639
+    y: 749
+    width: 865
+    height: 250
+  m_ViewDataDictionary: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: 17206
+--- !u!114 &29
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1425
+    y: 73
+    width: 494
+    height: 610
+  m_ViewDataDictionary: {fileID: 0}
+  m_OpenAddComponentMenu: 0
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: -342
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
