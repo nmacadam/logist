@@ -1,5 +1,5 @@
 # logist
-Logist is a WIP extension/replacement for Unity's built in logging system.  It works by capturing log data at runtime via its own `Logist.Log()` command and by capturing data from Unity's native `Debug.Log()` & friends.  These logs then get exported for use with the [Logist web-app](https://nmacadam.github.io/logist-web/)
+Logist is a proof of concept extension/replacement for Unity's built in logging system.  It works by capturing log data at runtime via its own `Logist.Log()` command and by capturing data from Unity's native `Debug.Log()` & friends.  These logs then get exported for use with the [Logist web-app](https://nmacadam.github.io/logist-web/)
 
 ![screenshot](https://raw.githubusercontent.com/nmacadam/logist/master/images/logistScreenshot.PNG)
 
